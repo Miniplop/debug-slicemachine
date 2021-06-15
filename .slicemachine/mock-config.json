@@ -1,0 +1,21 @@
+{
+  "slices": {
+    "Header": {},
+    "BushlifeHeader": {
+      "default-slice": {
+        "primary": {
+          "menuItem": {
+            "content": "Menu item"
+          },
+          "Tets": {
+            "config": {
+              "patternType": "STORY",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "TestResponsive": {}
+  }
+}

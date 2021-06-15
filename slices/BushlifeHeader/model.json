@@ -1,0 +1,87 @@
+{
+  "id": "bushlife_header",
+  "type": "SharedSlice",
+  "name": "BushlifeHeader",
+  "description": "BushlifeHeader",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Default slice description",
+      "primary": {
+        "logo": {
+          "type": "Image",
+          "config": {
+            "id": "logo",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "menuItem": {
+          "config": {
+            "label": "",
+            "placeholder": "Menu item"
+          },
+          "type": "Text"
+        },
+        "menuItemTwo": {
+          "type": "Text",
+          "config": {
+            "id": "menuItemTwo",
+            "placeholder": "Menu item"
+          }
+        },
+        "menuItemThree": {
+          "type": "Text",
+          "config": {
+            "id": "menuItemThree",
+            "placeholder": "Menu item"
+          }
+        },
+        "menuItemFour": {
+          "type": "Text",
+          "config": {
+            "id": "menuItemFour",
+            "placeholder": "Menu item"
+          }
+        },
+        "username": {
+          "type": "Text",
+          "config": {
+            "id": "username",
+            "placeholder": "username"
+          }
+        },
+        "avatar": {
+          "type": "Image",
+          "config": {
+            "id": "avatar",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "iughiufd": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "placeholder": ""
+          }
+        },
+        "Tets": {
+          "config": {
+            "label": "",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        }
+      },
+      "items": {}
+    }
+  ]
+}
